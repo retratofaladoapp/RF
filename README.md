@@ -1,5 +1,5 @@
 # RF
-compartilhar experiencias, interpretações e vivencia de aluno com professor, para interferir na grade de horário
+compartilhar experiencias, interpretações e vivencia de aluno com professor, para interferir na grade de horário<br>
 (<a href="http://j.mp/updateRF" target="_blank">j.mp/updateRF</a>) <br>
 (<a href="https://github.com/retratofaladoapp/RF/blob/master/gitportable.7z?raw=true" target="_blank">download gitportable</a>) <br>
 
