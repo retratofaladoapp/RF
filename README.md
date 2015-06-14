@@ -4,3 +4,4 @@ compartilhar experiencias, interpretações e vivencia de aluno com professor, p
 conta para contribuicao anonima,<br>
 login: rfhelper<br>
 senha: retratofaladoapp
+<br>email: retratofaladoapp@gmail.com
