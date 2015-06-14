@@ -22,8 +22,8 @@ import com.dropbox.core.DbxRequestConfig;
 
 public class Main {
 	 private static DbxClient client;
-	 private final static String accessToken = /*key*/;
-	 private final static String APP_KEY = /*key*/, APP_SECRET = /*key*/;
+	 private final static String accessToken = "1t1GhxaAwmwAAAAAAAAAH1fiDiep9Jst9buudQCWentpRe13crot5rFzmpwya6ve";
+	 private final static String APP_KEY = "kgchwwfsz4dpxnd", APP_SECRET = "ywhw5xc5cvl87hd";
 	 
 	 private static String endereco;
 	 private static final String quebraTxt="--------------------------------------------------------";
@@ -90,6 +90,7 @@ public class Main {
 	        		break;
 	        	case 1:
 	        		inserirComentario(professor, rede);
+
 	        		rede.uploadFile(pastaProfessor, professor.atualizarComentario(rede));
 	        		bloqueado=false;
 	        		break;
